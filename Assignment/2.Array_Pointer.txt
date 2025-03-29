@@ -1,9 +1,10 @@
 I. Array exercise: Tạo 1 mảng int có kích thước SIZE = 10
-1. Khởi tạo giá trị cho mảng sử dụng vòng lặp
-2. Tính tổng các phần tử trong mảng
-3. In ra giá trị lớn nhất, giá trị nhỏ nhất
-4. Nhập 1 số bất kỳ, kiểm tra số vừa nhập có tồn tại trong mảng hay không
-5. In ra các số trùng lặp trong mảng trên.
+	1. Khởi tạo giá trị cho mảng sử dụng vòng lặp
+	2. Tính tổng các phần tử trong mảng
+	3. In ra giá trị lớn nhất, giá trị nhỏ nhất
+	4. Nhập 1 số bất kỳ, kiểm tra số vừa nhập có tồn tại trong mảng hay không
+	5. In ra các số trùng lặp trong mảng trên.
+	6. Sắp xếp mảng trên theo thứ tự tăng dần, giảm dần
 
 array library
 array.c
